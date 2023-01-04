@@ -1,0 +1,21 @@
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#important{
+    margin-top: 20px;
+}
+
+div {
+    background-color: antiquewhite;
+    margin: 5px 0 5px 0;
+    padding: 3px;
+    border: 2px solid black;
+    width: 50%;
+    font-weight: bold;
+}
+
+p {
+    font-weight: 200;
+}
